@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;hellopython/showsyspath&apos; to &apos;showsyspath.py&apos;" description="Rename resource &apos;showsyspath&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="showsyspath" name="showsyspath.py" stamp="1469680710255" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;hellopython/mymodule/showsyspath.py&apos; to &apos;show_sys_path.py&apos;" description="Rename resource &apos;showsyspath.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="mymodule/showsyspath.py" name="show_sys_path.py" stamp="1469688466603" updateReferences="true"/>
+</session>

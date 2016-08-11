@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+H:\python\.metadata\.plugins\org.eclipse.core.resources\.projects\hellopython\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+dialog_one|0|H:\python\hellopython\dialog_one.py
+test|0|H:\python\hellopython\test.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=dialog_one
+2=test
+-- END DICTIONARY
+-- START TREE 1
+8
+E1|1|E1!11@
+cli|1|clickButton!10@
+fil|1|filemenu!11@
+hel|1|hello!10@
+lab|1|label!19@
+men|1|menubar!11@
+qb|1|qb!11@
+top|2|top!19@top!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
